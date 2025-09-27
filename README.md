@@ -3,6 +3,7 @@
 A BepinEx mod for **Megabonk** that adds a dedicated build mode for placing rails with precision.
 It includes ghost previews, rotation, flipping, and a freeze mode that stops time and enemy spawns, letting you build without interruptions.
 
+### For MelonLoader version go to [Megabonk Rails Builder Melon](https://github.com/svind1er/MegabonkRailsBuilderMelon)
 ---
 
 ## ✨ Features
